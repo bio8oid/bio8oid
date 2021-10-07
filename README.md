@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bio8oid
 - 👀 I’m interested in archery
 - 🌱 I’m currently learning WordPress
-- 💞️ I’m looking to collaborate on commertial projects
+- 💞️ I’m looking to collaborate on commercial projects
 - 📫 How to reach me =>  bio8oid @ mail.uk
 
 <!---
